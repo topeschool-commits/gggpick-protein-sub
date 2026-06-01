@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://protein.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick protein'
+title = 'GGG Pick 단백질'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick protein'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'protein 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '단백질 파우더, 단백질 음료, 닭가슴살 등 근성장과 식단 관리를 위한 헬스/프로틴 쿠팡 로켓배송 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick protein'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick protein"
+  sitename = "GGG Pick 단백질"
   siteurl = "https://protein.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
